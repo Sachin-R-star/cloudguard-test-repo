@@ -1,2 +1,9 @@
 Hello CloudGuard AI Audit   hello bro 
 
+// App Configuration
+const PORT = 8080;
+const DB_HOST = "localhost";
+
+// TODO: REMOVE THIS BEFORE PRODUCTION
+const AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
+const OPENAI_API_KEY = "sk-proj-1234FakeKeyXYZabcdefghijklmnopqrstuvwx";
